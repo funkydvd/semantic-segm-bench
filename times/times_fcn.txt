@@ -1,0 +1,28 @@
+/home/aimas/david/times/
+/home/aimas/david/times/1080p/1-frame.jpg
+successful load img: /home/aimas/david/times/1080p/1-frame.jpg
+2.9968619346618652
+/home/aimas/david/times/2160p/1-frame.jpg
+successful load img: /home/aimas/david/times/2160p/1-frame.jpg
+5.818657636642456
+/home/aimas/david/times/720p/12-frame.png
+successful load img: /home/aimas/david/times/720p/12-frame.png
+1.3067572116851807
+/home/aimas/david/times/768p/1-frame.jpg
+successful load img: /home/aimas/david/times/768p/1-frame.jpg
+1.211773157119751
+/home/aimas/david/times/768p/2-frame.jpg
+successful load img: /home/aimas/david/times/768p/2-frame.jpg
+1.286970615386963
+/home/aimas/david/times/480p/1-frame.jpg
+successful load img: /home/aimas/david/times/480p/1-frame.jpg
+0.9792129993438721
+/home/aimas/david/times/360p/17-frame.png
+successful load img: /home/aimas/david/times/360p/17-frame.png
+0.8516781330108643
+already created /home/aimas/david/times//res1/1080p 
+already created /home/aimas/david/times//res1/2160p 
+already created /home/aimas/david/times//res1/720p 
+already created /home/aimas/david/times//res1/768p 
+already created /home/aimas/david/times//res1/480p 
+already created /home/aimas/david/times//res1/360p 

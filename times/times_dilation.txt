@@ -1,0 +1,111 @@
+Using GPU  1
+1080p
+already created /home/aimas/david/times/rez/1080p 
+/home/aimas/david/times/1080p/1-frame.jpg
+/home/aimas/david/times/rez/1080p/res1_1-frame.jpg
+2160p
+already created /home/aimas/david/times/rez/2160p 
+/home/aimas/david/times/2160p/1-frame.jpg
+/home/aimas/david/times/rez/2160p/res1_1-frame.jpg
+720p
+already created /home/aimas/david/times/rez/720p 
+/home/aimas/david/times/720p/12-frame.png
+/home/aimas/david/times/rez/720p/res1_12-frame.png
+768p
+already created /home/aimas/david/times/rez/768p 
+/home/aimas/david/times/768p/1-frame.jpg
+/home/aimas/david/times/rez/768p/res1_1-frame.jpg
+/home/aimas/david/times/768p/2-frame.jpg
+/home/aimas/david/times/rez/768p/res1_2-frame.jpg
+480p
+already created /home/aimas/david/times/rez/480p 
+/home/aimas/david/times/480p/1-frame.jpg
+/home/aimas/david/times/rez/480p/res1_1-frame.jpg
+360p
+already created /home/aimas/david/times/rez/360p 
+/home/aimas/david/times/360p/17-frame.png
+/home/aimas/david/times/rez/360p/res1_17-frame.png
+1080p
+already created /home/aimas/david/times/rez/1080p 
+/home/aimas/david/times/1080p/1-frame.jpg
+/home/aimas/david/times/rez/1080p/res1_1-frame.jpg
+2160p
+already created /home/aimas/david/times/rez/2160p 
+/home/aimas/david/times/2160p/1-frame.jpg
+/home/aimas/david/times/rez/2160p/res1_1-frame.jpg
+720p
+already created /home/aimas/david/times/rez/720p 
+/home/aimas/david/times/720p/12-frame.png
+/home/aimas/david/times/rez/720p/res1_12-frame.png
+768p
+already created /home/aimas/david/times/rez/768p 
+/home/aimas/david/times/768p/1-frame.jpg
+/home/aimas/david/times/rez/768p/res1_1-frame.jpg
+/home/aimas/david/times/768p/2-frame.jpg
+/home/aimas/david/times/rez/768p/res1_2-frame.jpg
+480p
+already created /home/aimas/david/times/rez/480p 
+/home/aimas/david/times/480p/1-frame.jpg
+/home/aimas/david/times/rez/480p/res1_1-frame.jpg
+360p
+already created /home/aimas/david/times/rez/360p 
+/home/aimas/david/times/360p/17-frame.png
+/home/aimas/david/times/rez/360p/res1_17-frame.png
+14
+14
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/1080p/res1_1-frame.jpg
+time 1.362654447555542
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/2160p/res1_1-frame.jpg
+time 1.5257298946380615
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/720p/res1_12-frame.png
+time 1.1450765132904053
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/768p/res1_1-frame.jpg
+time 1.1464838981628418
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/768p/res1_2-frame.jpg
+time 1.1665081977844238
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/480p/res1_1-frame.jpg
+time 1.1300549507141113
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/360p/res1_17-frame.png
+time 1.1251270771026611
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/1080p/res1_1-frame.jpg
+time 1.2537806034088135
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/2160p/res1_1-frame.jpg
+time 1.4865238666534424
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/720p/res1_12-frame.png
+time 1.121994972229004
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/768p/res1_1-frame.jpg
+time 1.1599693298339844
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/768p/res1_2-frame.jpg
+time 1.1549034118652344
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/480p/res1_1-frame.jpg
+time 1.111954689025879
+(2048, 1024, 3)
+2097152
+Writing /home/aimas/david/times/rez/360p/res1_17-frame.png
+time 1.1032319068908691

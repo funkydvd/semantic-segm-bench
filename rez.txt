@@ -1,0 +1,84 @@
+tp for method res1_ecnet/ category day is 0.799111
+fp for method res1_ecnet/ category day is 0.276070
+acc for method res1_ecnet/ category day is 0.761521
+tp for method res1_ecnet/ category dusk is 0.756155
+fp for method res1_ecnet/ category dusk is 0.532559
+acc for method res1_ecnet/ category dusk is 0.611798
+tp for method res1_ecnet/ category night is 0.723913
+fp for method res1_ecnet/ category night is 0.365675
+acc for method res1_ecnet/ category night is 0.679119
+average tp for method res1_ecnet/ is 0.759726
+average fp for method res1_ecnet/ is 0.391435
+average acc for method res1_ecnet/ is 0.684146
+tp for method res_fcn/ category day is 0.783116
+fp for method res_fcn/ category day is 0.059176
+acc for method res_fcn/ category day is 0.861970
+tp for method res_fcn/ category dusk is 0.743980
+fp for method res_fcn/ category dusk is 0.055700
+acc for method res_fcn/ category dusk is 0.844140
+tp for method res_fcn/ category night is 0.574909
+fp for method res_fcn/ category night is 0.076111
+acc for method res_fcn/ category night is 0.749399
+average tp for method res_fcn/ is 0.700668
+average fp for method res_fcn/ is 0.063662
+average acc for method res_fcn/ is 0.818503
+tp for method res_pspnet/ category day is 0.940846
+fp for method res_pspnet/ category day is 0.048522
+acc for method res_pspnet/ category day is 0.946162
+tp for method res_pspnet/ category dusk is 0.947084
+fp for method res_pspnet/ category dusk is 0.058271
+acc for method res_pspnet/ category dusk is 0.944407
+tp for method res_pspnet/ category night is 0.836458
+fp for method res_pspnet/ category night is 0.090818
+acc for method res_pspnet/ category night is 0.872820
+average tp for method res_pspnet/ is 0.908129
+average fp for method res_pspnet/ is 0.065871
+average acc for method res_pspnet/ is 0.921129
+tp for method res_segnet/ category day is 0.955871
+fp for method res_segnet/ category day is 0.157691
+acc for method res_segnet/ category day is 0.899090
+tp for method res_segnet/ category dusk is 0.903645
+fp for method res_segnet/ category dusk is 0.236779
+acc for method res_segnet/ category dusk is 0.833433
+tp for method res_segnet/ category night is 0.454849
+fp for method res_segnet/ category night is 0.032096
+acc for method res_segnet/ category night is 0.711376
+average tp for method res_segnet/ is 0.771455
+average fp for method res_segnet/ is 0.142189
+average acc for method res_segnet/ is 0.814633
+tp for method res_dilation/ category day is 0.568332
+fp for method res_dilation/ category day is 0.471118
+acc for method res_dilation/ category day is 0.548607
+tp for method res_dilation/ category dusk is 0.491377
+fp for method res_dilation/ category dusk is 0.436231
+acc for method res_dilation/ category dusk is 0.527573
+tp for method res_dilation/ category night is 0.958131
+fp for method res_dilation/ category night is 0.941101
+acc for method res_dilation/ category night is 0.508515
+average tp for method res_dilation/ is 0.672614
+average fp for method res_dilation/ is 0.616150
+average acc for method res_dilation/ is 0.528232
+tp for method res_danet_512/ category day is 0.679938
+fp for method res_danet_512/ category day is 0.534816
+acc for method res_danet_512/ category day is 0.572561
+tp for method res_danet_512/ category dusk is 0.802235
+fp for method res_danet_512/ category dusk is 0.724899
+acc for method res_danet_512/ category dusk is 0.538668
+tp for method res_danet_512/ category night is 0.685074
+fp for method res_danet_512/ category night is 0.365158
+acc for method res_danet_512/ category night is 0.659958
+average tp for method res_danet_512/ is 0.722416
+average fp for method res_danet_512/ is 0.541624
+average acc for method res_danet_512/ is 0.590396
+tp for method res_danet_768/ category day is 0.775274
+fp for method res_danet_768/ category day is 0.585479
+acc for method res_danet_768/ category day is 0.594897
+tp for method res_danet_768/ category dusk is 0.840790
+fp for method res_danet_768/ category dusk is 0.780803
+acc for method res_danet_768/ category dusk is 0.529993
+tp for method res_danet_768/ category night is 0.717448
+fp for method res_danet_768/ category night is 0.344103
+acc for method res_danet_768/ category night is 0.686673
+average tp for method res_danet_768/ is 0.777837
+average fp for method res_danet_768/ is 0.570129
+average acc for method res_danet_768/ is 0.603854
